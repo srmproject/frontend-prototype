@@ -1,6 +1,2 @@
-# 실행방법
-```sh
-cd my-app
-npm install
-npm run dev
-```
+# 개요
+* JCP 프론트엔드 기능위주 프로토타입
